@@ -1,0 +1,4 @@
+.DS_Store
+
+# 从本仓库安装到其它项目时才会产生，不应出现在源仓库
+skills-lock.json
